@@ -58,7 +58,7 @@ eleventyExcludeFromCollections: true
             width: 180px;
             height: 180px;
             border-radius: 50%;
-            padding-left: 5px;
+            padding-left: 10px;
         }
 
         .og-image {
@@ -77,8 +77,20 @@ eleventyExcludeFromCollections: true
         }
 
         @media (max-width: 512px) {
+            .container {
+                padding-left: 2em;
+                padding-right: 2em;
+            }
+            .profile-image {
+                width: 160px;
+                height: 160px;
+            }
             h1 {
-                font-size: 1.8em;
+                font-size: 1.6em;
+            }
+
+            .page-stripe {
+                height: 12px;
             }
         }
     </style>
