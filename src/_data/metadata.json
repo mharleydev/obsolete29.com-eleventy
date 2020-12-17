@@ -2,7 +2,9 @@
     "title": "Michael Harley / obsolete29.com",
     "desc": "I enjoy hiking, biking, foosball, and reading. I work with Power Platform, Powershell, Sharepoint, and I'm learning web development",
     "url": "https://obsolete29.com",
-    "socialImageUrl": "https://obsolete29.com/assets/img/site-social-cover.jpg",
+    "socialCardUrl": "/assets/img/",
+    "twitterSocialImageName": "twitter-social-cover.jpg",
+    "ogSocialImageName": "og-social-cover.jpg",
     "feed": {
         "subtitle": "Building web sites, infosec, hiking, biking, powershell, sharepoint, foosball.",
         "feedUrl": "https://obsolete29.com/feed/feed.xml"

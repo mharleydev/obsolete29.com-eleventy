@@ -4,7 +4,7 @@ desc: If you follow me on Twitter, then you already know I have three cats. I'd
   like to introduce you to them now. Thank you.
 published: 2020-12-06
 tags: cats
-socialCard: "/posts/please-meet-my-cats/og-image/social-cover.jpg"
+socialCardUrl: "/posts/please-meet-my-cats/og-image/"
 ---
 If you follow me on Twitter, then you already know I have three cats. I'd like to introduce you to them now. Thank you.
 

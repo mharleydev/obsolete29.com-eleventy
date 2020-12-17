@@ -15,13 +15,13 @@ posts.forEach(post => {
     
     (async () => {
         let postUrl = 'http://127.0.0.1:5500' + post.url + 'og-image'
-        let localDir =  outputDir + post.url + 'og-image/og-social-cover.jpg'
+        let localDir =  outputDir + post.url + 'og-image/twitter-social-cover.jpg'
         const browser = await puppeteer.launch();
         const page = await browser.newPage();
         await page.goto(postUrl);
         await page.setViewport({
-            width: 600,
-            height: 315,
+            width: 512,
+            height: 256,
             deviceScaleFactor: 2
         });
         await page.screenshot({path: localDir});

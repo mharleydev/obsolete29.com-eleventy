@@ -4,7 +4,7 @@ desc: Welcome to WordPress. This is your first post. Edit or delete it, then
   start blogging!
 published: 2012-01-28
 tags: hello
-socialCard: "/posts/hello-world/og-image/social-cover.jpg"
+socialCardUrl: "/posts/hello-world/og-image/"
 changeFreq: "Yearly"
 ---
 Welcome to WordPress. This is your first post. Edit or delete it, then start blogging!

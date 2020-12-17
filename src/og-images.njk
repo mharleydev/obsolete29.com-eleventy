@@ -26,6 +26,7 @@ eleventyExcludeFromCollections: true
             margin: 0;
             font-family: 'Roboto', sans-serif;
             text-align: center;
+            background-color: #f1f5f7;
         }
 
         img {
@@ -38,11 +39,10 @@ eleventyExcludeFromCollections: true
         figure {
             margin: 0;
         }
-
         .page-stripe {
             position: absolute;
-            top: 0;
-            width: 600px;
+            bottom: 0;
+            width: 100%;
             height: 8px;
             background-image: linear-gradient(to right,#f1f5f7,#d80b77);
         }
@@ -51,9 +51,7 @@ eleventyExcludeFromCollections: true
             display: flex;
             align-content: center;
             align-items: center;
-            width: 600px;
-            height: 315px;
-            background-color: #f1f5f7;
+            margin-top: 9%;
         }
 
         .profile-image {
@@ -69,7 +67,6 @@ eleventyExcludeFromCollections: true
         p {
             margin-top: 2rem;
             font-weight: 500;
-            font-size: 1.2em;
             letter-spacing: .125em;
             text-transform: uppercase;
         }
@@ -78,11 +75,16 @@ eleventyExcludeFromCollections: true
             color: #d80b77;
             font-weight: bold;
         }
+
+        @media (max-width: 512px) {
+            h1 {
+                font-size: 1.8em;
+            }
+        }
     </style>
     <link rel="icon" type="image/png" sizes="32x32" href="/img/favicon/favicon-32x32.png">
 </head>
 <body>
-    <div class="page-stripe"></div>
     <div class="container">
         <img class="profile-image" src="/assets/img/profile-photo.jpg" alt="">
         <figure class="og-image">
@@ -90,6 +92,6 @@ eleventyExcludeFromCollections: true
             <p>A post on obsolete<span class="highlight">29</span>.com</p>
         </figure>
     </div>
-
+    <div class="page-stripe"></div>
 </body>
 </html>

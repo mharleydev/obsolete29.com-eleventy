@@ -3,7 +3,7 @@ title: I'm learning web development
 desc: I'm teaching myself web development and I'll be writing about my journey.
 published: 2020-09-02
 tags: webdev
-socialCard: "/posts/learning-web-dev/og-image/social-cover.jpg"
+socialCardUrl: "/posts/learning-web-dev/og-image/"
 ---
 I recently learned that my job is being outsourced. The favorite part of my current job is when I get to write PowerShell to solve problems so with that in mind, I’m going see this opportunity to teach myself web development with the intent of becoming a web developer.
 

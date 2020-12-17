@@ -16,10 +16,10 @@
     <link rel="alternate" href="/feed/feed.xml" type="application/atom+xml" title="{{ metadata.title }}">
     <!-- SEO -->
     <title>{{ title }}</title>
-    {% if socialCard %}
-        {% set socialImageUrl = metadata.url + socialCard %}
+    {% if socialCardUrl %}
+        {% set socialImageUrl = metadata.url + socialCardUrl %}
     {% else %}
-        {% set socialImageUrl = metadata.socialImageUrl %}
+        {% set socialImageUrl = metadata.url + metadata.socialCardUrl %}
     {% endif %}
     <link rel="canonical" href="{{ metadata.url }}{{ page.url }}">
     <meta name="description" content="{{ desc }}">
@@ -32,7 +32,7 @@
         {% set ogContentType = "article" %}
     {% endif %}
     <meta property="og:type" content="{{ ogContentType }}">
-    <meta name="image" property="og:image" content="{{ socialImageUrl }}">
+    <meta name="image" property="og:image" content="{{ socialImageUrl }}{{ metadata.ogSocialImageName }}">
     <meta property="og:image:width" content="1200">
     <meta property="og:image:height" content="630">
     <meta property="article:author" name="author" content="{{ metadata.author.name}}">
@@ -42,7 +42,7 @@
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@obsolete29">
     <meta name="twitter:description" content="{{ desc or title }}">
-    <meta name="twitter:image" content="{{ socialImageUrl }}">
+    <meta name="twitter:image" content="{{ socialImageUrl }}{{ metadata.twitterSocialImageName }}">
     <meta name="twitter:creator" content="@obsolet29">
 </head>
 <body>

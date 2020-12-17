@@ -6,7 +6,7 @@
   "scripts": {
     "start": "eleventy --serve",
     "build": "eleventy",
-    "postbuild": "node _functions/og-images.js"
+    "postbuild": "node _functions/og-images.js & node _functions/twitter-og-images.js"
   },
   "repository": {
     "type": "git",
