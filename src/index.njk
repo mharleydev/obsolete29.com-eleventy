@@ -1,0 +1,28 @@
+---
+title: Michael Harley, chief goblin herder
+desc: "Welcome to my personal space on the world wide web. I enjoy hiking, biking, foosball, and reading. 
+    I work with Power Platform, Powershell, Sharepoint, and I'm learning web development."
+layout: base.njk
+changeFreq: "weekly"
+---
+<section class="profile">
+    <img class="profile__image" src="/assets/img/profile-photo.jpg" height="320px" weight="320px" alt="Mike holding a mug of coffee. Black and white.">
+    <section class="profile__info">
+        <h1 class="profile__title">Michael Harley</h1>
+        <h2 class="profile__sub-title">chief goblin herder</h2>
+        <p class="profile__body">
+            Welcome to my personal space on the world wide web.
+            I enjoy hiking, biking, foosball, and reading.
+            I work with Power Platform, Powershell, Sharepoint, and I'm learning web development.
+        </p>
+    </section>
+</section>
+<section class="posts">
+    <h1 class="posts__header">Recent Activity</h1>
+    {% for post in collections.posts | reverse %}
+    <article class="posts__post-summary">
+        <time class="posts__post-summary-date">{{ post.data.published | dateformat }}</time>
+        <a class="posts__post-summary-title" href={{ post.url }}>{{ post.data.title }}</a>
+    </article>
+    {% endfor %}
+</section>
