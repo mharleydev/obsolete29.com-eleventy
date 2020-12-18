@@ -1,6 +1,6 @@
 ---
 title: Welcome to obsolete29.com v1.0!
-desc: 160 character description
+desc: I've finally finished up the design and development of my site; welcome to version 1.0.0!
 published: 2020-12-18
 tags: [indieweb, obsolete29]
 socialCardUrl: "/posts/welcome-to-obsolete29-v1/og-image/"
