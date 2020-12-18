@@ -23,6 +23,7 @@
     "@11ty/eleventy": "^0.11.1",
     "@11ty/eleventy-img": "^0.5.0",
     "@11ty/eleventy-plugin-rss": "^1.0.9",
+    "eleventy-plugin-embed-twitter": "^1.0.2",
     "frontm8er": "^1.0.4",
     "imagemin": "^7.0.1",
     "imagemin-pngquant": "^9.0.1",

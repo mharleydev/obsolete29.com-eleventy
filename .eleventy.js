@@ -1,14 +1,16 @@
 var moment = require('moment-timezone');
 const Image = require("@11ty/eleventy-img");
 const pluginRss = require("@11ty/eleventy-plugin-rss");
+const embedTwitter = require("eleventy-plugin-embed-twitter");
 
-const localDir = "../obsolete29.com"
+const localDir = "../obsolete29.com";
 
 module.exports = function (eleventyConfig) {
 
   eleventyConfig.addPassthroughCopy("src/assets");
   eleventyConfig.setDataDeepMerge(true);
   eleventyConfig.addPlugin(pluginRss);
+  eleventyConfig.addPlugin(embedTwitter);
 
   eleventyConfig.addFilter("jsonTitle", (str) => {
     let title = str.replace(/((.*)\s(.*)\s(.*))$/g, "$2&nbsp;$3&nbsp;$4");
