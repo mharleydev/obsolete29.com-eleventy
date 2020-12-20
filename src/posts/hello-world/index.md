@@ -7,6 +7,11 @@ tags: hello
 socialCardUrl: "/posts/hello-world/og-image/"
 changeFreq: "Yearly"
 ---
+page.data.url - {{ page.data.url }}
+page.url - {{ page.url }}
+post.data.url - {{ post.data.url }}
+post.url - {{ post.url }}
+
 Welcome to WordPress. This is your first post. Edit or delete it, then start blogging!
 
 <div>
