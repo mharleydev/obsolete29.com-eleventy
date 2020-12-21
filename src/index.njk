@@ -19,11 +19,23 @@ isHomePage: "Yes"
     </section>
 </section>
 <section class="posts">
-    <h1 class="posts__header">Recent Activity</h1>
+    <h1 class="posts__header">Some personal favs</h1>
     {% for post in collections.posts | reverse %}
-    <article class="posts__post-summary">
-        <time class="posts__post-summary-date">{{ post.data.published | dateformat }}</time>
-        <a class="posts__post-summary-title" href={{ post.url }}>{{ post.data.title }}</a>
-    </article>
+        {% if post.data.isFeatured %}    
+            <article class="posts__post-summary">
+                <time class="posts__post-summary-date">{{ post.data.published | dateformat }}</time>
+                <a class="posts__post-summary-title" href={{ post.url }}>{{ post.data.title }}</a>
+            </article>
+        {% endif %}
     {% endfor %}
+    <a class="more-writing" href="/posts/">
+        <span class="more-writing__text">more writing</span> 
+        <svg class="more-writing__symbol" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+            <g fill="none" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+                <path d="m29.08 16h-26"/>
+                <path d="m29.08 16-4 5"/>
+                <path d="m29.08 16-4-5"/>
+            </g>
+        </svg>
+    </a>
 </section>

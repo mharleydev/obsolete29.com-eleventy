@@ -5,6 +5,7 @@ desc: If you follow me on Twitter, then you already know I have three cats. I'd
 published: 2020-12-06
 tags: cats
 socialCardUrl: "/posts/please-meet-my-cats/og-image/"
+isFeatured: "Yes"
 ---
 If you follow me on Twitter, then you already know I have three cats. I'd like to introduce you to them now. Thank you.
 
