@@ -3,6 +3,7 @@ title: Hello world!
 desc: Welcome to WordPress. This is your first post. Edit or delete it, then
   start blogging!
 published: 2012-01-28
+date: 2012-01-28
 tags: hello
 socialCardUrl: "/posts/hello-world/og-image/"
 changeFreq: "Yearly"
