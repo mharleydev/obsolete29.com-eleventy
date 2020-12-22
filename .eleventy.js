@@ -65,7 +65,26 @@ module.exports = function (eleventyConfig) {
 
     return `<picture>${source}${img}</picture>`;
   });
+
+  eleventyConfig.addNunjucksAsyncShortcode("screenshot", async function(src, alt) {
+    if(alt === undefined) {
+      // You bet we throw an error on missing alt (alt="" works okay)
+      throw new Error(`Missing \`alt\` on myImage from: ${src}`);
+    }
+
+    let metadata = await Image(src, {
+      widths: [null],
+      formats: ["jpeg"],
+      urlPath: "/assets/img/blog/",
+      outputDir: localDir + "/assets/img/blog/"
+    });
+
+    let data = metadata.jpeg.pop();
+    return `<img src="${data.url}" width="${data.width}" height="${data.height}" alt="${alt}">`;
+  });
   // end
+
+
 
   eleventyConfig.addFilter("dateformat", function(dateIn) {
     return moment(dateIn).tz('GMT').format('YYYY-MM-DD');
