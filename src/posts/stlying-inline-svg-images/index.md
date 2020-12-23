@@ -1,5 +1,5 @@
 ---
-title: "Learning Journal: Styling in-line SVG images with an external style sheet"
+title: "Styling inline SVG images with an external style sheet"
 desc: "Let's take a look at how I updated my in-line SVG images so I could style them with an external style sheet"
 published: 2020-12-22
 tags: [learning-journal, webdev, css, svg]
