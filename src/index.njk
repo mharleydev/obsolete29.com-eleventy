@@ -19,7 +19,7 @@ isHomePage: "Yes"
     </section>
 </section>
 <section class="posts">
-    <h1 class="posts__header">Some personal favs</h1>
+    <h2 class="posts__header">Some personal favs</h2>
     {% for post in collections.posts | reverse %}
         {% if post.data.isFeatured %}    
             <article class="posts__post-summary">
