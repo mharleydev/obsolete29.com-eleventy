@@ -47,7 +47,7 @@
 }
 
 ul {
-    padding: 0;
+    padding-left: 16px;
 }
 
 img,
@@ -258,6 +258,7 @@ color: var(--color-accent);
     color: var(--color-accent);
     font-weight: var(--weight-light);
     text-decoration: none;
+    max-width: 85%;
 }
 
 @media screen and (min-width: 501px) {
