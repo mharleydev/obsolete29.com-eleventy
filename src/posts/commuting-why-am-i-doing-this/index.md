@@ -1,0 +1,25 @@
+---
+title: "Commuting: Why am I doing this?"
+desc: "I live in a small town in Tennessee called Crossville. I work in Nashville, TN. That's 120 miles from my driveway to the office parking garage, one way. Why???"
+published: 2012-02-14
+tags: [career, life]
+socialCardUrl: "/posts/my-first-tattoos/og-image/"
+date: 2012-02-14
+---
+I live in a small town in Tennessee called Crossville. I work in Nashville, TN. That's 120 miles from my driveway to the office parking garage, one way. I spend nearly 4 hours of my day driving back and forth to work when I drive to Nashville; that's a 12 hour work day! My work is pretty flexible and I'm able to do some telecommuting but I still spend over $400/month on gasoline to drive back and forth to work, plus the wear and tear on the car, oil changes, tires etc. That doesn't even count the stress of me sitting in a car for that long. Or the wasted time that I could be doing something productive or fun. I could be exercising or studying codeyear, or .NET development or reading or or working my side hustle or just spending time with my family.
+
+I usually get home around 5:30pm. By then dinner is _usually_ on and we're close to eating. Since the wife cooks, I clean up the kitchen. So by the time we've ate dinner and cleaned up, I usually have about an hour to myself that doesn't involve sitting in a car then it's time to start getting ready for bed because I have to get up at 4:30am in order to get to work.
+
+When I really want to get depressed about it, I read [The True Cost of Commuting](http://www.mrmoneymustache.com/2011/10/06/the-true-cost-of-commuting/) again. Yikes!! I make the best of the it and try to stay up beat about it. I listen to a lot of NPR and I listen to podcasts a lot (Savage Love Cast & This American life mostly!) to pass the time. Plus, I fiddle around with [Waze](http://www.waze.com/) to report traffic issues.
+
+Why on earth would anybody torture themselves in such a way? There are two main reasons:
+
+First, our finances are pretty shitty. We both went straight from our previous marriages to _this_ marriage. Getting divorced, paying child support, paying alimony ($900/month in my case) and still trying to live tends to fuck up a person's finances. I've had the alimony paid off for over a year now and we're pulling ourselves out of the financial shit storm we were in but it takes time; especially since we've not been as disciplined as we should have. Both of our cars are now paid off , we're not living week to week, our grocery budget has went up for healthier food and we're paying off the credit cards that were written off. Finally, we have a mortgage on  this house that I bought in my previous marriage. I don't think we'll be able to sell it but even if we could sell it tomorrow and break even (or rent it out), we'd still have the second issue.
+
+Second, we made a commitment to the boys about stability.  When we first moved in together, we lived in a 2 bedroom/1.5 bath apartment with two adults and 3 kids. The kids were piled into a single bedroom with one bunk bed and a single bed. The boys at the time were 8, 10 and 13. As you might imagine, we were crammed into that apartment and it was very stressful on everybody but especially on the kids. Once the alimony agreement was satisfied, we were able to move back into my house. It's a 3 bedroom, 2 full bath house in a pretty nice neighborhood. We have pretty cool neighbors and the kids have made friends with the neighborhood kids. They have a pretty good and stable life right now.
+
+I could only do this commute if I could see the light at the end of the tunnel. The ultimate goal is to live in Nashville. I've lived in a rural/suburban type areas my whole life and I'm really wanting to live in an urban setting. I want to bike to work and I want to be able to walk or bike to interesting places. I want to get rid of our second car. I want to easily be able to meet new people. I want to have the free time that living within a 20-30 minute bike ride to work will give me. I want to be able to meet up with our friends for spontaneous things.
+
+I realize that my expectations of what urban living is going to be like is probably a little different than what it's _actually_ going to be. Since we'll have kids, I worry about the schools and I worry about their safety. Every person that I've had the "where do you live" conversation with at work lives 45+ minutes away by car on the interstate. They all live in places like Murfreesboro, Spring Hill and Dickson. I wonder if I'm missing something about living urban or if everybody else at work just thinks people should live in suburbia or maybe they just hate people. My work is in Green Hills so I've been looking in Belmont/Hillsboro, Hillsboro/West End, Edgehill, Music Row areas. East Nashville seems pretty interesting too.
+
+So, that's why I do what I do. Finances and guilt about putting the boys through hell in a dinky ass apartment for 2 years. If you have any insight into living urban in Nashville, I'd certainly be interested in getting some input from people who know.
