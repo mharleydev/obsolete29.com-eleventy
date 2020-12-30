@@ -15,32 +15,32 @@ Here's a sample of my footer social bar prior to styling. As you can see, I'm ju
 
 ```html
 <nav class="site-footer__social-bar">
-    <a href="https://twitter.com/obsolete29" rel="me">
-        <svg class="site-footer__social-bar-icon" 
-            xmlns="http://www.w3.org/2000/svg" aria-label="Twitter" role="img" 
-            viewBox="0 0 512 512">
-            <rect width="512" height="512" rx="15%" fill="#b4cddd"/>
-            <path fill="#233742" d="M437 152a72 72 0 01-40 12a72 72 0 
-                0032-40a72 72 0 01-45 17a72 72 0 00-122 65a200 200 0 
-                01-145-74a72 72 0 0022 94a72 72 0 01-32-7a72 72 0 0056 69a72 
-                72 0 01-32 1a72 72 0 0067 50a200 200 0 01-105 29a200 200 0 
-                00309-179a200 200 0 0035-37"/>
-        </svg>
-    </a>
-    <a href="mailto:mike@obsolete29.com" rel="me">
-        <svg class="site-footer__social-bar-icon" 
-            xmlns="http://www.w3.org/2000/svg" aria-label="ProtonMail" role="img" 
-                viewBox="0 0 512 512">
-            <rect width="512" height="512" rx="15%" fill="#b4cddd"/>
-            <g fill="#233742">
-                <path d="M259 77s-108-6-131 114v79s0 12 23 29c28 17 91 68 108 
-                    68s74-51 102-69c23-16 23-28 23-28v-79C361 71 259 77 259 77zm68 
-                    159H185v-45c11-57 74-57 74-57s57 0 68 57v45z"/>
-                <path d="M259 384l-34-12-97-68v120s0 11 17 11h222c11 0 17-11 
-                    17-11V304l-97 69-28 11z"/>
-            </g>
-        </svg>
-    </a>
+  <a href="https://twitter.com/obsolete29" rel="me">
+    <svg class="site-footer__social-bar-icon" 
+      xmlns="http://www.w3.org/2000/svg" aria-label="Twitter" role="img" 
+      viewBox="0 0 512 512">
+      <rect width="512" height="512" rx="15%" fill="#b4cddd"/>
+      <path fill="#233742" d="M437 152a72 72 0 01-40 12a72 72 0 
+        0032-40a72 72 0 01-45 17a72 72 0 00-122 65a200 200 0 
+        01-145-74a72 72 0 0022 94a72 72 0 01-32-7a72 72 0 0056 69a72 
+        72 0 01-32 1a72 72 0 0067 50a200 200 0 01-105 29a200 200 0 
+        00309-179a200 200 0 0035-37"/>
+    </svg>
+  </a>
+  <a href="mailto:mike@obsolete29.com" rel="me">
+    <svg class="site-footer__social-bar-icon" 
+      xmlns="http://www.w3.org/2000/svg" aria-label="ProtonMail" role="img" 
+        viewBox="0 0 512 512">
+      <rect width="512" height="512" rx="15%" fill="#b4cddd"/>
+      <g fill="#233742">
+        <path d="M259 77s-108-6-131 114v79s0 12 23 29c28 17 91 68 108 
+            68s74-51 102-69c23-16 23-28 23-28v-79C361 71 259 77 259 77zm68 
+            159H185v-45c11-57 74-57 74-57s57 0 68 57v45z"/>
+        <path d="M259 384l-34-12-97-68v120s0 11 17 11h222c11 0 17-11 
+            17-11V304l-97 69-28 11z"/>
+      </g>
+    </svg>
+  </a>
 </nav>
 ```
 
@@ -50,16 +50,16 @@ First, my new styles in my external style sheet: I'm using custom properties to 
 
 ```css
 :root {
-    --color-footer-fore: #b4cddd;
-    --color-footer-background: #233742;
+  --color-footer-fore: #b4cddd;
+  --color-footer-background: #233742;
 }
 
 .site-footer__svg-background-color {
-    fill: var(--color-footer-fore);
+  fill: var(--color-footer-fore);
 }
 
 .site-footer__svg-foreground-color {
-    fill: var(--color-footer-background)
+  fill: var(--color-footer-background)
 }
 
 ```
@@ -68,36 +68,36 @@ Here's my updated markup. I removed the fill properties and added new classes to
 
 ```html
 <nav class="site-footer__social-bar">
-    <a href="https://twitter.com/obsolete29" rel="me">
-        <svg class="site-footer__social-bar-icon" 
-            xmlns="http://www.w3.org/2000/svg" aria-label="Twitter" 
-            role="img" viewBox="0 0 512 512">
-            <rect class="site-footer__svg-background-color" width="512" 
-                height="512" rx="15%" />
-            <path class="site-footer__svg-foreground-color" 
-                d="M437 152a72 72 0 01-40 12a72 72 0 
-                0032-40a72 72 0 01-45 17a72 72 0 00-122 65a200 200 0 
-                01-145-74a72 72 0 0022 94a72 72 0 01-32-7a72 72 0 0056 
-                69a72 72 0 01-32 1a72 72 0 0067 50a200 200 0 01-105 
-                29a200 200 0 00309-179a200 200 0 0035-37"/>
-        </svg>
-    </a>
-    <a href="mailto:mike@obsolete29.com" rel="me">
-        <svg class="site-footer__social-bar-icon" 
-            xmlns="http://www.w3.org/2000/svg" aria-label="ProtonMail" 
-            role="img" viewBox="0 0 512 512">
-            <rect class="site-footer__svg-background-color" width="512" 
-                height="512" rx="15%" />
-            <g class="site-footer__svg-foreground-color">
-                <path d="M259 77s-108-6-131 114v79s0 12 23 29c28 17 91 
-                    68 108 68s74-51 102-69c23-16 23-28 23-28v-79C361 71 
-                    259 77 259 77zm68 159H185v-45c11-57 74-57 74-57s57 
-                    0 68 57v45z"/>
-                <path d="M259 384l-34-12-97-68v120s0 11 17 11h222c11 0 
-                    17-11 17-11V304l-97 69-28 11z"/>
-            </g>
-        </svg>
-    </a>
+  <a href="https://twitter.com/obsolete29" rel="me">
+    <svg class="site-footer__social-bar-icon" 
+      xmlns="http://www.w3.org/2000/svg" aria-label="Twitter" 
+      role="img" viewBox="0 0 512 512">
+      <rect class="site-footer__svg-background-color" width="512" 
+        height="512" rx="15%" />
+      <path class="site-footer__svg-foreground-color" 
+        d="M437 152a72 72 0 01-40 12a72 72 0 
+        0032-40a72 72 0 01-45 17a72 72 0 00-122 65a200 200 0 
+        01-145-74a72 72 0 0022 94a72 72 0 01-32-7a72 72 0 0056 
+        69a72 72 0 01-32 1a72 72 0 0067 50a200 200 0 01-105 
+        29a200 200 0 00309-179a200 200 0 0035-37"/>
+    </svg>
+  </a>
+  <a href="mailto:mike@obsolete29.com" rel="me">
+    <svg class="site-footer__social-bar-icon" 
+      xmlns="http://www.w3.org/2000/svg" aria-label="ProtonMail" 
+      role="img" viewBox="0 0 512 512">
+      <rect class="site-footer__svg-background-color" width="512" 
+        height="512" rx="15%" />
+      <g class="site-footer__svg-foreground-color">
+        <path d="M259 77s-108-6-131 114v79s0 12 23 29c28 17 91 
+          68 108 68s74-51 102-69c23-16 23-28 23-28v-79C361 71 
+          259 77 259 77zm68 159H185v-45c11-57 74-57 74-57s57 
+          0 68 57v45z"/>
+        <path d="M259 384l-34-12-97-68v120s0 11 17 11h222c11 0 
+          17-11 17-11V304l-97 69-28 11z"/>
+      </g>
+    </svg>
+  </a>
 </nav>
 ```
 
