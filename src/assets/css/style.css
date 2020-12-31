@@ -1,3 +1,6 @@
+/* base
+   ========================================================================== */
+
 @font-face {
     font-family: 'Roboto';
     font-style: normal;
@@ -240,6 +243,11 @@ color: var(--color-accent);
     transition: box-shadow var(--timing-hover);
 }
 
+.featured-posts a:hover {
+  box-shadow: var(--shadow-link-hover);
+}
+
+
 .featured-posts__post {
     font-weight: var(--weight-light);
 }
@@ -257,6 +265,17 @@ color: var(--color-accent);
     width: 22px;
     height: 22px;
     margin-left: 5px;
+}
+
+.more-writing__text {
+  color: var(--color-accent);
+  text-decoration: none;
+  box-shadow: var(--shadow-link);
+  transition: box-shadow var(--timing-hover);
+}
+
+.more-writing__text:hover {
+  box-shadow: var(--shadow-link-hover);
 }
 
 /* Posts */
