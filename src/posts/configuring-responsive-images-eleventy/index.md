@@ -5,14 +5,6 @@ published: 2020-12-21
 tags: [obsolete29, eleventy, webdev]
 socialCardUrl: "/posts/configuring-responsive-images-eleventy/og-image/"
 ---
-This is part two of a multipart series about how I setup my personal web site using [Eleventy](https://11ty.dev).
-
-## Posts in the series
- - Part 1: [Building my personal site with Eleventy](/posts/building-my-personal-site-with-eleventy/)
- - Part 2: [Configuring responsive and optimized images with Eleventy](/posts/configuring-responsive-images-eleventy/)
-
-*Disclaimer: I'm new to web development. If you have any constructive criticism for me, please reach out! I'm very open to advice!*
-
 Previously, we built our base project and got the initial site setup. Today, let's configure responsive images using the eleventy-img plugin.
 
 ## Requirements
@@ -126,3 +118,8 @@ Firefox and Chrome will both load the WebP images but even on Safari, the deskto
 I found [Complete Guide to Responsive Images!](https://medium.com/@elad/a-complete-guide-for-responsive-images-b13db359c6c7) helpful as I was figuring out which markup I wanted to use. I also enjoyed reading [Automating Image Optimization Workflow](https://jec.fyi/blog/automating-image-optimization-workflow).
 
 Ok, that's it for now! Thanks for reading.
+
+> This is part two of a multipart series about how I setup my personal web site using [Eleventy](https://11ty.dev).
+> - Part 1: [Building my personal site with Eleventy](/posts/building-my-personal-site-with-eleventy/)
+> - Part 2: [Configuring responsive and optimized images with Eleventy](/posts/configuring-responsive-images-eleventy/)
+> - Part 3: [RSS, a love letter and walkthrough for my Eleventy site](/posts/rss-on-eleventy/)

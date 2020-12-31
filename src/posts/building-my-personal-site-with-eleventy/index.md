@@ -6,13 +6,7 @@ tags: [obsolete29, eleventy, webdev]
 socialCardUrl: "/posts/building-my-personal-site-with-eleventy/og-image/"
 isFeatured: "Yes"
 ---
-This is part one of a multipart series about how I setup my personal web site using [Eleventy](https://11ty.dev).
-
-## Posts in the series
- - Part 1: [Building my personal site with Eleventy](/posts/building-my-personal-site-with-eleventy/)
- - Part 2: [Configuring responsive and optimized images with Eleventy](/posts/configuring-responsive-images-eleventy/)
-
-_Disclaimer: I'm new to web development. If you have any constructive criticism for me, please reach out! I'm very open to advice!_
+Hello! This is part one of a multipart series about how I setup my personal web site using [Eleventy](https://11ty.dev).
 
 Before I started to write any code, I took note of what I wanted for my new site.
 
@@ -210,3 +204,8 @@ layout: base.njk
 We'll repeat step 7 for each basic page we want, including the about and contact pages. Reference base.njk in the front matter, and put your content below. Eleventy processes each template file you have in your src directory.
 
 Ok, that's it for now! Thanks for reading. Next week, I'll document how I setup my site for responsive and optimized images.
+
+> This is part one of a multipart series about how I setup my personal web site using [Eleventy](https://11ty.dev).
+> - Part 1: [Building my personal site with Eleventy](/posts/building-my-personal-site-with-eleventy/)
+> - Part 2: [Configuring responsive and optimized images with Eleventy](/posts/configuring-responsive-images-eleventy/)
+> - Part 3: [RSS, a love letter and walkthrough for my Eleventy site](/posts/rss-on-eleventy/)

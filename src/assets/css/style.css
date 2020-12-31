@@ -46,12 +46,10 @@
   box-sizing: border-box;
 }
 
-ul {
-    padding-left: 16px;
-}
-
+ul,
 ol {
-    padding-left: 16px;
+    padding: 0;
+    list-style-position: inside;
 }
 
 img,
