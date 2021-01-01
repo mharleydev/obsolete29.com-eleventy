@@ -190,12 +190,12 @@ layout: base.njk
 </section>
 <section class="posts">
     <h1 class="posts__header">Recent Activity</h1>
-    {% for post in collections.posts | reverse %}
+    {{ '{% for post in collections.posts | reverse %}' }}
     <article class="posts__post-summary">
-        <time class="posts__post-summary-date">{{ post.data.published | dateformat }}</time>
-        <a class="posts__post-summary-title" href={{ post.url }}>{{ post.data.title }}</a>
+        <time class="posts__post-summary-date">{{ '{{ post.data.published | dateformat }}' }}</time>
+        <a class="posts__post-summary-title" href={{ '{{ post.url }}>{{ post.data.title }}' }}</a>
     </article>
-    {% endfor %}
+    {{ '{% endfor %}' }}
 </section>
 ```
 
