@@ -205,7 +205,9 @@ We'll repeat step 7 for each basic page we want, including the about and contact
 
 Ok, that's it for now! Thanks for reading. Next week, I'll document how I setup my site for responsive and optimized images.
 
-> This is part one of a multipart series about how I setup my personal web site using [Eleventy](https://11ty.dev).
+> This is part four of a multipart series about how I setup my personal web site using [Eleventy](https://11ty.dev).
+> 
 > - Part 1: [Building my personal site with Eleventy](/posts/building-my-personal-site-with-eleventy/)
 > - Part 2: [Configuring responsive and optimized images with Eleventy](/posts/configuring-responsive-images-eleventy/)
 > - Part 3: [RSS, a love letter and walkthrough for my Eleventy site](/posts/rss-on-eleventy/)
+> - Part 4: [Setup social sharing previews, SEO, and favicons on Eleventy](/posts/ogp-seo-favicons-eleventy/)
