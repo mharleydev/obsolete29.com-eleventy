@@ -202,9 +202,13 @@ Say it with me. Validate!
 
 Ok, that's it for today. Thanks for reading my post!
 
-> This is part four of a multipart series about how I setup my personal web site using [Eleventy](https://11ty.dev).
-> 
-> - Part 1: [Building my personal site with Eleventy](/posts/building-my-personal-site-with-eleventy/)
-> - Part 2: [Configuring responsive and optimized images with Eleventy](/posts/configuring-responsive-images-eleventy/)
-> - Part 3: [RSS, a love letter and walkthrough for my Eleventy site](/posts/rss-on-eleventy/)
-> - Part 4: [Setup social sharing previews, SEO, and favicons on Eleventy](/posts/ogp-seo-favicons-eleventy/)
+<aside class="post__callout">
+
+This is part of a multipart series about how I setup my personal web site using [Eleventy](https://11ty.dev).
+
+- Part 1: [Building my personal site with Eleventy](/posts/building-my-personal-site-with-eleventy/)
+- Part 2: [Configuring responsive and optimized images with Eleventy](/posts/configuring-responsive-images-eleventy/)
+- Part 3: [RSS, a love letter and walkthrough for my Eleventy site](/posts/rss-on-eleventy/)
+- Part 4: [Setup social sharing previews, SEO, and favicons on Eleventy](/posts/ogp-seo-favicons-eleventy/)
+
+</aside>
