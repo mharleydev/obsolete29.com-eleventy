@@ -91,10 +91,12 @@ module.exports = function (eleventyConfig) {
   });
   // end
 
-
-
   eleventyConfig.addFilter("dateformat", function(dateIn) {
     return moment(dateIn).tz('GMT').format('YYYY-MM-DD');
+});
+
+eleventyConfig.addFilter("yearOnly", function(dateIn) {
+  return moment(dateIn).tz('GMT').format('YYYY');
 });
 
   return {
