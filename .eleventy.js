@@ -10,6 +10,35 @@ const markdownLib = markdownIt({ html: true }).use(markdownItAnchor);
 
 const localDir = "../obsolete29.com";
 
+async function imageShortcode(src, alt, sizes = "100vw") {
+  if(alt === undefined) {
+    // You bet we throw an error on missing alt (alt="" works okay)
+    throw new Error(`Missing \`alt\` on responsiveimage from: ${src}`);
+  }
+
+  let metadata = await Image(src, {
+    widths: [null],
+    formats: ['webp', 'jpeg'],
+    urlPath: "/assets/img/blog/",
+    outputDir: localDir + "/assets/img/blog/",
+  });
+
+  let lowsrc = metadata.jpeg[0];
+
+  return `<picture>
+    ${Object.values(metadata).map(imageFormat => {
+      return `  <source type="${imageFormat[0].sourceType}" srcset="${imageFormat.map(entry => entry.srcset).join(", ")}" sizes="${sizes}">`;
+    }).join("\n")}
+      <img
+        class="profile__image"
+        src="${lowsrc.url}"
+        width="${lowsrc.width}"
+        height="${lowsrc.height}"
+        alt="${alt}"
+        loading="lazy"
+        decoding="async">
+    </picture>`;
+}
 module.exports = function (eleventyConfig) {
 
   eleventyConfig.addPassthroughCopy("src/assets");
@@ -19,7 +48,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPlugin(syntaxHighlight);
   eleventyConfig.addPlugin(embedYouTube);
   eleventyConfig.setLibrary("md", markdownLib);
-  
+  eleventyConfig.addNunjucksAsyncShortcode("image", imageShortcode);
 
   eleventyConfig.addFilter("jsonTitle", (str) => {
     let title = str.replace(/((.*)\s(.*)\s(.*))$/g, "$2&nbsp;$3&nbsp;$4");
