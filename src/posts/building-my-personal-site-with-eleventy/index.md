@@ -14,6 +14,7 @@ Hello! This is part of a multipart series about how I setup my personal web site
 - Part 2: [Configuring responsive and optimized images with Eleventy](/posts/configuring-responsive-images-eleventy/)
 - Part 3: [RSS, a love letter and walkthrough for my Eleventy site](/posts/rss-on-eleventy/)
 - Part 4: [Setup social sharing previews, SEO, and favicons on Eleventy](/posts/ogp-seo-favicons-eleventy/)
+- Part 5: [Automated social sharing images in 11ty and Puppeteer](/posts/automated-social-sharing-images-eleventy-puppeteer)
 
 </aside>
 

@@ -10,7 +10,7 @@ const markdownLib = markdownIt({ html: true }).use(markdownItAnchor);
 
 const localDir = "../obsolete29.com";
 
-async function imageShortcode(src, alt, sizes = "100vw") {
+async function imageShortcode(src, alt, cls, sizes = "100vw") {
   if(alt === undefined) {
     // You bet we throw an error on missing alt (alt="" works okay)
     throw new Error(`Missing \`alt\` on responsiveimage from: ${src}`);
@@ -30,7 +30,7 @@ async function imageShortcode(src, alt, sizes = "100vw") {
       return `  <source type="${imageFormat[0].sourceType}" srcset="${imageFormat.map(entry => entry.srcset).join(", ")}" sizes="${sizes}">`;
     }).join("\n")}
       <img
-        class="profile__image"
+        class=${cls}
         src="${lowsrc.url}"
         width="${lowsrc.width}"
         height="${lowsrc.height}"

@@ -56,25 +56,20 @@
         <div class="container">
             <nav class="site-top-nav">
                 <a class="site-top-nav__link site-top-nav__link--home"href="/"><span class="site-top-nav__home-character">></span>obsolete29.com</a>
-                <a class="site-top-nav__link" href="/"><img class="site-top-nav__link-img" src="/assets/img/profile-photo-small.jpg" alt=""></a>
+                <a class="site-top-nav__link" href="/">
+                {% image "./src/images/profile-photo-small.jpg", "Mike holding a mug of coffee. Black and white.", "site-top-nav__link-img" %}
+                </a>
                 <section class="site-top-nav__links">
                     <a href="/posts/" class="site-top-nav__link">writing</a>
                 </section>
             </nav>
         </div>
     </header>
-
-
-
-
     <main>
         <div class="container">
             {{ content | safe }}
         </div>
     </main>
-
-
-
 
     <footer class="site-footer" >
         <div class="container">
