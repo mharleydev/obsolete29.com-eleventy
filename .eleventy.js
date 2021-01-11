@@ -39,6 +39,7 @@ async function imageShortcode(src, alt, cls, sizes = "100vw") {
         decoding="async">
     </picture>`;
 }
+
 module.exports = function (eleventyConfig) {
 
   eleventyConfig.addPassthroughCopy("src/assets");
@@ -49,7 +50,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPlugin(embedYouTube);
   eleventyConfig.setLibrary("md", markdownLib);
   eleventyConfig.addNunjucksAsyncShortcode("image", imageShortcode);
-
+  
   eleventyConfig.addFilter("jsonTitle", (str) => {
     let title = str.replace(/((.*)\s(.*)\s(.*))$/g, "$2&nbsp;$3&nbsp;$4");
     title = title.replace(/"(.*)"/g, '\\"$1\\"');
@@ -58,7 +59,7 @@ module.exports = function (eleventyConfig) {
   
 
   // eleventy-img
-  eleventyConfig.addAsyncShortcode("myImage", async (src, alt) => {
+  eleventyConfig.addAsyncShortcode("myImage", async (src, alt, cls) => {
     if (!alt) {
       throw new Error(`Missing \`alt\` on Image from: ${src}`);
     }
@@ -99,7 +100,7 @@ module.exports = function (eleventyConfig) {
                 height="${highResJpeg.height}"
                 src="${lowestSrc.url}">`;
 
-    return `<picture>${source}${img}</picture>`;
+    return `<picture class="${cls}">${source}${img}</picture>`;
   });
 
   eleventyConfig.addNunjucksAsyncShortcode("screenshot", async function(src, alt) {

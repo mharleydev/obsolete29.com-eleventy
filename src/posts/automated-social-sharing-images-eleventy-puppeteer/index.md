@@ -119,7 +119,7 @@ npm install imagemin
 npm install imagemin-pngquant
 ```
 
-You can find the original gist [here](https://gist.github.com/drewm/993d2237e24a928151b953fa3964ce9c). Below is the version that I hacked together.
+You can find the [original gist here](https://gist.github.com/drewm/993d2237e24a928151b953fa3964ce9c). Below is the version that I hacked together.
 
 Save the code below to `_functions\os-images.js`. This script reads `_temp/posts.json`, iterates through each of the little og-images pages, snaps a screenshot, and optimizes the image.
 

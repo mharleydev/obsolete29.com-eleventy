@@ -1,0 +1,26 @@
+---
+title: Learning journal
+desc: Welcome to my learning journal! As I learn new things, I plan to write about them. Those posts are collected here.
+layout: base.njk
+changeFreq: "weekly"
+---
+<h1>learning journal</h1>
+<p>Welcome to my learning journal! As I learn new things, I plan to write about them. Those posts are collected here.</p> 
+<section class="posts">
+  {% for post in collections.posts | reverse %}
+    {% for tag in post.data.tags %}
+      {% if tag == "learning-journal" %}
+        {% set tagUrl %}/posts/{{ tag }}/{% endset %}
+          <article class="posts__post-summary">
+            <time class="posts__post-summary-date">{{ post.data.published | dateformat }}</time>
+            <a class="posts__post-summary-title" href={{ post.url }}>{{ post.data.title }}</a>
+          </article>
+        {% endif %}
+      {% endfor %}  
+  {% endfor %}
+</section>
+
+
+
+
+
