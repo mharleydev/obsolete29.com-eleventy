@@ -7,7 +7,7 @@ tags: [cycling, natchez-trace, trip-report]
 socialCardUrl: "/posts/cycling-the-natchez-trace/og-image/"
 generateOpenGraphImage: False
 ---
-In the fall of 2014, I took a week long cycle tour trip and rode my bicycle from Natchez MS to Nashville TN. Here is my write up.
+In the fall of 2014, I took a week long cycle tour trip and rode my bicycle from Natchez MS to Nashville TN. These posts were Originally posted on my old blog, michaelharley.me and they were migrated here on 01/11/2021.
 
 <aside class="post__callout">
 
@@ -28,7 +28,13 @@ In the fall of 2014, I took a week long cycle tour trip and rode my bicycle from
 </aside>
 
 ## Planning
-<hr>
+
+
+<aside class="post__callout">
+
+Originally published Augut 5, 2014 on my old blog. Migrated here 01/11/2021.
+
+</aside>
 
 I've decided to ride my bike for the entire length of the [Natchez Trace](http://en.wikipedia.org/wiki/Natchez_Trace_Parkway) (444 miles) from Natchez, MS to Nashville, TN. I'll do this ride as a self supported ride, camping along the way.
 
@@ -52,7 +58,12 @@ Expect a proper gear post soon but I still need to requisition a few important t
 - Bike computer
 
 ## Pre-ride gear list plan
-<hr>
+
+<aside class="post__callout">
+
+Originally published September 2, 2014 on my old blog. Migrated here 01/11/2021.
+
+</aside>
 
 Here is my initial gear list. I've tried to be as detailed as possible. I'll update this list as thing changes. Comments welcome.
 
@@ -126,7 +137,13 @@ Misc
 - first aid kit (including ibu and tums)
 
 ## Battery pack or solar charger?
-<hr>
+
+
+<aside class="post__callout">
+
+Originally published September 16, 2014 on my old blog. Migrated here 01/11/2021.
+
+</aside>
 
 As I prepare for my Natchez Trace bike trip next month, I agonize over gear. Don't worry, it's a good kind of agonize not the bad kind; gear nerds will understand.
 
@@ -139,7 +156,13 @@ I'm just not sure how well the solar charger would work while riding on the bike
 Anyhoo, would be interested in hearing your thoughts!
 
 ## Day 0 Natchez MS
-<hr>
+
+
+<aside class="post__callout">
+
+Originally published October 17, 2014 on my old blog. Migrated here 01/11/2021.
+
+</aside>
 
 After 7+ hours of driving from Nashville, we have arrived in Natchez MS with my bike and gear.
 
@@ -159,7 +182,13 @@ Excited and anxious to get started turning the pedals. Here are some photos from
 </figure>
 
 ## Day 1 Natchez MS to Rocky Springs
-<hr>
+
+
+<aside class="post__callout">
+
+Originally published October 18, 2014 on my old blog. Migrated here 01/11/2021.
+
+</aside>
 
 Today's Distance - 64 miles Total Distance 64 miles
 
@@ -198,7 +227,13 @@ Ok, I'm exhausted and I still need to read about tomorrow's section.
 </figure>
 
 ## Day 2 Rocky Springs to Ratliff Ferry
-<hr>
+
+
+<aside class="post__callout">
+
+Originally published October 19, 2014 on my old blog. Migrated here 01/11/2021.
+
+</aside>
 
 Todays Distance: 75 miles Total Distance 139 miles
 
@@ -246,7 +281,13 @@ Tomorrow, 70 miles to Jeff Bugsby.
 </figure>
 
 ## Day 3 Ratliff Ferry to Jeff Busby
-<hr>
+
+
+<aside class="post__callout">
+
+Originally published October 20, 2014 on my old blog. Migrated here 01/11/2021.
+
+</aside>
 
 Distance Today - 73 miles Total Distance - 202 miles
 
@@ -286,7 +327,13 @@ Tomorrow's milage is about 70 miles not counting going off the trace for lunch. 
 </figure>
 
 ## Day 4 Jeff Busby to Tupelo
-<hr>
+
+
+<aside class="post__callout">
+
+Originally published October 21, 2014 on my old blog. Migrated here 01/11/2021.
+
+</aside>
 
 Distance Today - 81 miles Total Distance - 283 miles
 
@@ -339,11 +386,11 @@ Today was awesome; the best I've had on my trip.
 </figure>
 
 ## Day 5 Tupelo to Colbert Ferry
-<hr>
+
 
 <aside class="post__callout">
 
-Editors note: Because of poor cell service, I wasn't able to upload this at the end of day 5 - it was actually uploaded at the end of day 7.
+Originally published October 22, 2014 on my old blog. Migrated here 01/11/2021.
 
 </aside>
 
@@ -406,15 +453,14 @@ Tomorrow is 59 miles - I double and triple checked using all my fingers and toes
     {% myImage "./src/posts/cycling-the-natchez-trace/images/day-05-12.jpg", "Road closed and detour signs.", "post__img" %}
     {% myImage "./src/posts/cycling-the-natchez-trace/images/day-05-13.jpg", "Road closed and detour signs.", "post__img" %}
     {% myImage "./src/posts/cycling-the-natchez-trace/images/day-05-14.jpg", "Road closed and detour signs.", "post__img" %}
-    <figcaption>caption</figcaption>
 </figure>
 
 ## Day 6 Colbert Ferry to Meriwether-Lewis
-<hr>
+
 
 <aside class="post__callout">
 
-Editors note: Because of poor cell service, I wasn’t able to upload this at the end of day 6 – it was actually uploaded at the end of day 7.
+Originally published October 23, 2014 on my old blog. Migrated here 01/11/2021.
 
 </aside>
 
@@ -467,7 +513,13 @@ Jen is coming to meet me and I'm so excited! That's all for now.
 </figure>
 
 ## Day 7 Meriwether-Lewis to Nashville
-<hr>
+
+
+<aside class="post__callout">
+
+Originally published October 24, 2014 on my old blog. Migrated here 01/11/2021.
+
+</aside>
 
 Distance Today - 69 miles Total Distance - 490
 
@@ -511,7 +563,13 @@ It really helped a lot to take my mind off each dang mile post. We talked a lot 
 </figure>
 
 ## Conclusion
-<hr>
+
+
+<aside class="post__callout">
+
+Originally published October 31, 2014 on my old blog. Migrated here 01/11/2021.
+
+</aside>
 
 I've been home for a week now. Most of my gear has been aired out, hung up, and put away. I've reintegrated back into civilian life. I've reconfigured Tank Bicycle back into urban assault mode (feels twitchy without all the gear!). I've uploaded all my photos and I made a video. Life is good and I'm glad to be home; I missed Jen, our bed and cooked food.
 
@@ -543,7 +601,13 @@ A big shoutout to [Green Fleet Bicycle Shop](http://greenfleetbikes.com/) here i
 A shout out to all my friends and family who sent me special emails, text messages and encouraging comments on my social media posts. Thanks David Byrge, Jessie, Tommy, Mom, Cyndi, Jase, Erin, Ryan, Eleanor, Josh, Richard, Deb, Tim, Jason Harrell, Kelly and everybody else who were supportive. It really helps more than you know probably.
 
 ## Post Trip Gear Review
-<hr>
+
+
+<aside class="post__callout">
+
+Originally published November 4, 2014 on my old blog. Migrated here 01/11/2021.
+
+</aside>
 
 I'm a gear head so I wanted to jot down my thoughts on my gear while it's still relatively fresh in my head.
 
