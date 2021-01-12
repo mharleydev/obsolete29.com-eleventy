@@ -190,9 +190,12 @@ Originally published October 18, 2014 on my old blog. Migrated here 01/11/2021.
 
 </aside>
 
-Today's Distance - 64 miles Total Distance 64 miles
+<figure>
+    {% myImage "./src/posts/cycling-the-natchez-trace/images/day-01-strava.jpg", "Screenshot of day 1 Strava track.", "post__img" %}
+    <figcaption>Here is today's <a href="https://www.strava.com/activities/day-1-natchez-ms-to-rocky-springs-209242276?utm_campaign=ride_share&utm_content=3132582&utm_medium=widget&utm_source=127.0.0.1">Strava track</a>.</figcaption>
+</figure>
 
-<iframe height="405" width="590" frameborder="0" allowtransparency="true" scrolling="no" src="https://www.strava.com/activities/209242276/embed/2cbc393e8ec26eaf49f8f4148736f5bfe9adcb74"></iframe>
+Today's Distance - 64 miles Total Distance 64 miles
 
 Goodbye's suck but today was awesome otherwise. I don't think I got on the road until after 9:30am, maybe closer to 10. Then I spent the first half of the day, just being hyper aware of the bike and making sure everything was ok and I wasn't going to have a mechanical with all the extra weight on the bike.
 
@@ -228,16 +231,18 @@ Ok, I'm exhausted and I still need to read about tomorrow's section.
 
 ## Day 2 Rocky Springs to Ratliff Ferry
 
-
 <aside class="post__callout">
 
 Originally published October 19, 2014 on my old blog. Migrated here 01/11/2021.
 
 </aside>
 
-Todays Distance: 75 miles Total Distance 139 miles
+<figure>
+    {% myImage "./src/posts/cycling-the-natchez-trace/images/day-02-strava.jpg", "Screenshot of day 2 Strava track.", "post__img" %}
+    <figcaption>Here is today's <a href="https://www.strava.com/activities/cycling-the-natchez-day-2-rocky-springs-to-ratliff-ferry-209439528?utm_campaign=ride_share&utm_content=3132582&utm_medium=widget&utm_source=https://obsolete29.com/posts/cycling-the-natchez-trace/">Strava track</a>.</figcaption>
+</figure>
 
-<iframe height="405" width="590" frameborder="0" allowtransparency="true" scrolling="no" src="https://www.strava.com/activities/209439528/embed/00b16d8ef1082362233b4107ee52feac59beb8aa"></iframe>
+Todays Distance: 75 miles Total Distance 139 miles
 
 It took me a while to break camp and get everything ready to head out. I was hoping to leave as early as possible and get to Ratliff Ferry with plenty of daylight. Everything was just so new, plus I repacked my bags to get more weight on the back and less on the front to improve handling. I ended up leaving just after 8am.
 
@@ -282,16 +287,18 @@ Tomorrow, 70 miles to Jeff Bugsby.
 
 ## Day 3 Ratliff Ferry to Jeff Busby
 
-
 <aside class="post__callout">
 
 Originally published October 20, 2014 on my old blog. Migrated here 01/11/2021.
 
 </aside>
 
-Distance Today - 73 miles Total Distance - 202 miles
+<figure>
+    {% myImage "./src/posts/cycling-the-natchez-trace/images/day-03-strava.jpg", "Screenshot of day 3 Strava track.", "post__img" %}
+    <figcaption>Here is today's <a href="https://www.strava.com/activities/cycling-the-natchez-day-2-rocky-springs-to-ratliff-ferry-209439528?utm_campaign=ride_share&utm_content=3132582&utm_medium=widget&utm_source=https://obsolete29.com/posts/cycling-the-natchez-trace/">Strava track</a>.</figcaption>
+</figure>
 
-<iframe height="405" width="590" frameborder="0" allowtransparency="true" scrolling="no" src="https://www.strava.com/activities/209781950/embed/bf8fe7a704f465cb7805f0621a40d2822f8a62f3"></iframe>
+Distance Today - 73 miles Total Distance - 202 miles
 
 Today had some ups and downs, emotionally.
 
@@ -328,16 +335,18 @@ Tomorrow's milage is about 70 miles not counting going off the trace for lunch. 
 
 ## Day 4 Jeff Busby to Tupelo
 
-
 <aside class="post__callout">
 
 Originally published October 21, 2014 on my old blog. Migrated here 01/11/2021.
 
 </aside>
 
-Distance Today - 81 miles Total Distance - 283 miles
+<figure>
+    {% myImage "./src/posts/cycling-the-natchez-trace/images/day-04-strava.jpg", "Screenshot of day 4 Strava track.", "post__img" %}
+    <figcaption>Here is today's <a href="https://www.strava.com/activities/day-4-jeff-busby-to-tupelo-210203678">Strava track</a>.</figcaption>
+</figure>
 
-<iframe height="405" width="590" frameborder="0" allowtransparency="true" scrolling="no" src="https://www.strava.com/activities/210203678/embed/385738a3a0d05c3b8093cb9b9d047b36bd8238ee"></iframe>
+Distance Today - 81 miles Total Distance - 283 miles
 
 I started this morning still feeing somewhat irritated about the shifting problem. I tend to obsess about the details and if everything isn't perfectly perfect, I can get a bit sideways. Jen reminded me again during our morning FaceTime to just let it go and get on the bike. Anyhoo, after breakfast, packing my gear and FaceTime, I was again on the road around 8:15am.
 
@@ -387,16 +396,18 @@ Today was awesome; the best I've had on my trip.
 
 ## Day 5 Tupelo to Colbert Ferry
 
-
 <aside class="post__callout">
 
 Originally published October 22, 2014 on my old blog. Migrated here 01/11/2021.
 
 </aside>
 
-Today's Distance - 74 miles Total Distance - 357 miles
+<figure>
+    {% myImage "./src/posts/cycling-the-natchez-trace/images/day-05-strava.jpg", "Screenshot of day 5 Strava track.", "post__img" %}
+    <figcaption>Here is today's <a href="https://www.strava.com/activities/day-5-tupelo-to-colbert-ferry-210698801">Strava track</a>.</figcaption>
+</figure>
 
-<iframe height="405" width="590" frameborder="0" allowtransparency="true" scrolling="no" src="https://www.strava.com/activities/210698801/embed/ed504e5b3ea69127ec718ceb1b2e244eb8019c7d"></iframe>
+Today's Distance - 74 miles Total Distance - 357 miles
 
 Today was the hardest day of the trip so far - man am I pooped. I somehow goofed with the simple math of the milage estimation. I have in my notes that the ride was supposed to be 61 miles but it turned out to be 74. Combine that with the biggest climbing day of the trip and that makes for a long day.
 
@@ -457,16 +468,18 @@ Tomorrow is 59 miles - I double and triple checked using all my fingers and toes
 
 ## Day 6 Colbert Ferry to Meriwether-Lewis
 
-
 <aside class="post__callout">
 
 Originally published October 23, 2014 on my old blog. Migrated here 01/11/2021.
 
 </aside>
 
-Distance Today - 64 miles Total Distance - 421 miles
+<figure>
+    {% myImage "./src/posts/cycling-the-natchez-trace/images/day-06-strava.jpg", "Screenshot of day 6 Strava track.", "post__img" %}
+    <figcaption>Here is today's <a href="https://www.strava.com/activities/day-6-colbert-ferry-to-meriwether-lewis-210859674">Strava track</a>.</figcaption>
+</figure>
 
-<iframe src="https://www.strava.com/activities/210859674/embed/cd7dc56492dd07713e945207d3dd8117b2d576a9" width="590" height="405" frameborder="0" scrolling="no"></iframe>
+Distance Today - 64 miles Total Distance - 421 miles
 
 I never did see the fellow bicycle camper at Colbert Ferry. I got up, fixed breakfast, packed and left and he never left his tent. Weird. I heard lots of owls during the night and it was super cool tho!
 
@@ -514,16 +527,18 @@ Jen is coming to meet me and I'm so excited! That's all for now.
 
 ## Day 7 Meriwether-Lewis to Nashville
 
-
 <aside class="post__callout">
 
 Originally published October 24, 2014 on my old blog. Migrated here 01/11/2021.
 
 </aside>
 
-Distance Today - 69 miles Total Distance - 490
+<figure>
+    {% myImage "./src/posts/cycling-the-natchez-trace/images/day-07-strava.jpg", "Screenshot of day 7 Strava track.", "post__img" %}
+    <figcaption>Here is today's <a href="https://www.strava.com/activities/day-7-meriwether-lewis-to-my-apartment-in-nashville-211197983">Strava track</a>.</figcaption>
+</figure>
 
-<iframe src="https://www.strava.com/activities/211197983/embed/8aa967a5a617d3c66a290cbe8e93a7c1075ac2cc" width="590" height="405" frameborder="0" scrolling="no"></iframe>
+Distance Today - 69 miles Total Distance - 490
 
 Whew. This was the hardest day of hills of the whole trip, hands down. The Strava track isn't exactly right as I paused it then rode for a while without restarting it... you can see this section by the straight line if you zoom in on the map.
 
