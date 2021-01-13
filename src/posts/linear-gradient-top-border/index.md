@@ -1,5 +1,5 @@
 ---
-title: Using border-top and border-image to create a linear gradient top border
+title: How to create a border-top linear gradient
 desc: I was struggling to create a linear gradient top border for a call out section. Here's the solution I landed on.
 published: 2021-01-12T23:12:28.437Z
 date: 2021-01-12T23:12:28.437Z
@@ -37,7 +37,7 @@ Here's what I landed on for my specific application.
 ```css
 .div {
   border-top: 3px solid;
-  border-image: linear-gradient(to right,#f1f5f7,#d80b77) 30 0 0 0;
+  border-image: linear-gradient(to right,#f1f5f7,#d80b77) 1 0 0 0;
 }
 ```
 
