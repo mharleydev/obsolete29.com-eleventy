@@ -3,7 +3,7 @@ title: "Quick hit: death and dying"
 desc: "More thoughts on death and dying and why wasting your my precious time on trivial things is so dumb"
 published: 2012-04-17
 tags: [life]
-socialCardUrl: "/posts/quick-hit-death-and-dying/og-image/"
+socialCardUrl: "/posts/quick-hit-death-and-dying/og-image/og-social-cover.jpg"
 date: 2012-04-17
 ---
 

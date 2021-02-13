@@ -3,7 +3,7 @@ title: "Concert Review: Butch Walker Nashville"
 desc: "Wow. That's how I feel after seeing Butch Walker play at 12th and Porter last night in Nashville, TN. Here is my quick write up about our experience."
 published: 2012-04-26
 tags: [concerts]
-socialCardUrl: "/posts/butch-walker-nashville/og-image/"
+socialCardUrl: "/posts/butch-walker-nashville/og-image/og-social-cover.jpg"
 date: 2012-04-26
 ---
 Wow. That's how I feel after seeing [Butch Walker](http://butchwalker.com/ "Butch Walker") play at [12th and Porter](http://12thandporterlive.com/ "12th and Porter") last night in Nashville, TN.

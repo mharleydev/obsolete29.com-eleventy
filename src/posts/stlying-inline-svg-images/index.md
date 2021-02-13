@@ -3,7 +3,7 @@ title: "Styling inline SVG images with an external style sheet"
 desc: "Let's take a look at how I updated my in-line SVG images so I could style them with an external style sheet"
 published: 2020-12-22
 tags: [learning-journal, webdev, css, svg]
-socialCardUrl: "/posts/stlying-inline-svg-images/og-image/"
+socialCardUrl: "/posts/stlying-inline-svg-images/og-image/og-social-cover.jpg"
 ---
 When I was building [obsolete29.com v1](/posts/building-my-personal-site-with-eleventy/), I chose to [inline my SVG images](https://css-tricks.com/using-svg/#using-inline-svg). I didn't have any experience doing it, but I understood this was a convenient way to adjust the fill and stroke properties to customize the image colors. So, I grab the SVG images I wanted to use from [SuperTinyIcons](https://github.com/edent/SuperTinyIcons), cracked open the SVG files and pasted the code into my markup.
 

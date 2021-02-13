@@ -3,7 +3,7 @@ title: "Junior Dee Harley"
 desc: "This page will serve as a resource page for my dad, Junior Dee Harley."
 published: 2012-04-23
 tags: [life, genealogy]
-socialCardUrl: "/posts/junior-dee-harley/og-image/"
+socialCardUrl: "/posts/junior-dee-harley/og-image/og-social-cover.jpg"
 date: 2012-04-23
 ---
 This page will serve as a resource page for my dad, Junior Dee Harley. If we're related or you knew my dad and you arrived at this page after searching for my dad, please contact me; I'd really like to meet you.

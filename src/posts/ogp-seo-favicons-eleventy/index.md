@@ -4,7 +4,7 @@ desc: This is part four of how I used 11ty to setup my personal site. This is ho
 published: 2021-01-03T07:16:00-06:00
 date: 2021-01-03T07:16:00-06:00
 tags: [obsolete29, eleventy, webdev]
-socialCardUrl: "/posts/ogp-seo-favicons-eleventy/og-image/"
+socialCardUrl: "/posts/ogp-seo-favicons-eleventy/og-image/og-social-cover.jpg"
 ---
 Today I want to work on a few things so that I'm ready to start sharing posts. I'm going to setup Open Graph protocol, SEO, and favicons on the site.
 

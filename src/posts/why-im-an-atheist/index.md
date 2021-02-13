@@ -4,7 +4,7 @@ desc: "I enjoy talking about religion in general but a few specific events are p
 published: 2012-01-30
 date: 2012-01-30
 tags: [religion, atheism]
-socialCardUrl: "/posts/why-im-an-atheist/og-image/"
+socialCardUrl: "/posts/why-im-an-atheist/og-image/og-social-cover.jpg"
 ---
 I enjoy talking about religion in general but a few specific events are prompting this blog post. First, my wife has recently been getting more involved with her church and we've been hanging out with her church friends, so church and religion and God has been a topic of conversation around here. Second, my daughter's boyfriend asked her why I didn't believe. Finally, one of my friends recently asked me why do I care about religion if I don't believe it.
 

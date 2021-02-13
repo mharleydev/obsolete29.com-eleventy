@@ -3,7 +3,7 @@ title: "Commuting: Why am I doing this?"
 desc: "I live in a small town in Tennessee called Crossville. I work in Nashville, TN. That's 120 miles from my driveway to the office parking garage, one way. Why???"
 published: 2012-02-14
 tags: [career, life]
-socialCardUrl: "/posts/my-first-tattoos/og-image/"
+socialCardUrl: "/posts/my-first-tattoos/og-image/og-social-cover.jpg"
 date: 2012-02-14
 ---
 I live in a small town in Tennessee called Crossville. I work in Nashville, TN. That's 120 miles from my driveway to the office parking garage, one way. I spend nearly 4 hours of my day driving back and forth to work when I drive to Nashville; that's a 12 hour work day! My work is pretty flexible and I'm able to do some telecommuting but I still spend over $400/month on gasoline to drive back and forth to work, plus the wear and tear on the car, oil changes, tires etc. That doesn't even count the stress of me sitting in a car for that long. Or the wasted time that I could be doing something productive or fun. I could be exercising or studying codeyear, or .NET development or reading or or working my side hustle or just spending time with my family.

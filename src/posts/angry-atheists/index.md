@@ -3,7 +3,7 @@ title: "Angry Atheists"
 desc: "Sometimes even allies can be at odds. Here's my recouting of one such occasion."
 published: 2012-03-06
 tags: [atheism]
-socialCardUrl: "/posts/angry-atheists/og-image/"
+socialCardUrl: "/posts/angry-atheists/og-image/og-social-cover.jpg"
 date: 2012-03-06
 ---
 Last night I got into a "discussion" with an atheist, on the Internet, about religion. I'm sure that my Christian friends are looking at me with their "wow, that was a really stupid fucking thing to do" eyes but sometimes I'm kind of naive.  Eric is a friend of mine... we're not very close friends as we've only met a couple times in person but I thought we had enough common interests and ideas about things that a better friendship could develop. Plus, I don't actually know many other atheists and I really want to.

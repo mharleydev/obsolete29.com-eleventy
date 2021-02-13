@@ -3,7 +3,7 @@ title: "Religious Freedom"
 desc: "I think everybody has a basic fundamental right to religious freedom. I happen to think that religious freedom by definition has to include freedom from religion too."
 published: 2012-04-18
 tags: [religion, atheism]
-socialCardUrl: "/posts/religious-freedom/og-image/"
+socialCardUrl: "/posts/religious-freedom/og-image/og-social-cover.jpg"
 date: 2012-04-18
 ---
 

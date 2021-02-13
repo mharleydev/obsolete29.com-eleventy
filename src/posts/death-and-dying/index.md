@@ -3,7 +3,7 @@ title: "Death and dying"
 desc: "I learned last night that a twitter friend of ours passed away on Monday. We weren't very close but it's made me ponder if I'm living my best life."
 published: 2012-02-04
 tags: life
-socialCardUrl: "/posts/death-and-dying/og-image/"
+socialCardUrl: "/posts/death-and-dying/og-image/og-social-cover.jpg"
 date: 2012-02-04
 ---
 I learned last night that a twitter friend of ours, Rhonda Hitchcock (@RhondaUSA), [passed away on Monday](http://www.legacy.com/obituaries/louisville/obituary.aspx?n=rhonda-l-hitchcock&pid=155725088&fhid=4745). We weren't very close but we exchanged tweets about technology occasionally.

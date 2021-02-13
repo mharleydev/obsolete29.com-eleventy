@@ -3,7 +3,7 @@ title: "My First Tattoo(s)"
 desc: "I finally got my first (and second) tattoo over the past week. It's something I've always been interested in doing but I've waited because I knew that once I got started, I'd have to get tattoos until I was covered."
 published: 2012-02-05
 tags: tattoos
-socialCardUrl: "/posts/my-first-tattoos/og-image/"
+socialCardUrl: "/posts/my-first-tattoos/og-image/og-social-cover.jpg"
 date: 2012-02-05
 ---
 I finally got my first (and second) tattoo over the past week. It's something I've always been interested in doing but I've waited because I knew that once I got started, I'd have to get tattoos until I was covered.

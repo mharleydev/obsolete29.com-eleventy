@@ -5,7 +5,7 @@ published: 2021-01-17T17:07:11.068Z
 date: 2021-01-17T17:07:11.068Z
 tags:
   - career
-socialCardUrl: /posts/lessons-learned-from-my-job-search/og-image/
+socialCardUrl: /posts/lessons-learned-from-my-job-search/og-image/og-social-cover.jpg
 generateOpenGraphImage: false
 ---
 My [last day at Bridgestone](https://obsolete29.com/posts/lessons-learned-from-bridgestone/) was Monday, December 7th. These are my observations from my job search.

@@ -3,7 +3,7 @@ title: Configuring responsive and optimized images with Eleventy
 desc: This is part two of a multipart series about how I setup my personal web site using Eleventy. Let's configure responsive images using the eleventy-img plugin.
 published: 2020-12-21
 tags: [obsolete29, eleventy, webdev]
-socialCardUrl: "/posts/configuring-responsive-images-eleventy/og-image/"
+socialCardUrl: "/posts/configuring-responsive-images-eleventy/og-image/og-social-cover.jpg"
 ---
 Previously, we built our base project and got the initial site setup. Today, let's configure responsive images using the eleventy-img plugin.
 

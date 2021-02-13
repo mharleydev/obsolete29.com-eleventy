@@ -7,7 +7,7 @@ tags:
   - learning-journal
   - webdev
   - css
-socialCardUrl: /posts/linear-gradient-top-border/og-image/
+socialCardUrl: /posts/linear-gradient-top-border/og-image/og-social-cover.jpg
 generateOpenGraphImage: false
 ---
 I learned something new today so I wanted to share!

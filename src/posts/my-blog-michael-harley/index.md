@@ -4,7 +4,7 @@ desc: "Hi, my name is Michael Harley and I love the Internet. I’ve created thi
 published: 2012-01-30
 date: 2012-01-30
 tags: [obsolete29]
-socialCardUrl: "/posts/my-blog-michael-harley/og-image/"
+socialCardUrl: "/posts/my-blog-michael-harley/og-image/og-social-cover.jpg"
 ---
 Hi, my name is Michael Harley and I love the Internet. I’ve created this blog so I can have a place to write about topics that don't easily fit into 140 characters or are not appropriate for Facebook (family).
 

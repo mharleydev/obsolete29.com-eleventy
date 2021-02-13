@@ -3,7 +3,7 @@ title: Building my personal site with Eleventy
 desc: This is part one of a multipart series about how I setup my personal web site using Eleventy
 published: 2020-12-20
 tags: [obsolete29, eleventy, webdev]
-socialCardUrl: "/posts/building-my-personal-site-with-eleventy/og-image/"
+socialCardUrl: "/posts/building-my-personal-site-with-eleventy/og-image/og-social-cover.jpg"
 isFeatured: "Yes"
 ---
 Hello! This is part of a multipart series about how I setup my personal web site using [Eleventy](https://11ty.dev).

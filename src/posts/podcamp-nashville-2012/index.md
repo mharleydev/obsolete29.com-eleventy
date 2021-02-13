@@ -3,7 +3,7 @@ title: "PodCamp Nashville 2012"
 desc: "Today was PodCamp Nashville 2012. Jen and I got to meet a bunch of people that we've only talked to on Twitter so that was a pretty big plus."
 published: 2012-04-15
 tags: [conferences]
-socialCardUrl: "/posts/podcamp-nashville-2012/og-image/"
+socialCardUrl: "/posts/podcamp-nashville-2012/og-image/og-social-cover.jpg"
 date: 2012-04-15
 ---
 Today was [PodCamp Nashville 2012](http://www.podcampnashville.org/pcn12/). They call it a tech "unconference" but you basically get to rub shoulders with some cool Nashville people in the tech and social networking scenes. Jen and I got to meet a bunch of people that we've only talked to on Twitter so that was a pretty big plus.

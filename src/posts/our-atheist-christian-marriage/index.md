@@ -3,7 +3,7 @@ title: "Our Atheist-Christian marriage"
 desc: "I'm an atheist and my wife is a Christian. How can this work you might ask? Well... it's not always easy. I can't speak to her perspective or experiences but I can speak to my own."
 published: 2012-02-13
 tags: [religion, atheism]
-socialCardUrl: "/posts/our-atheist-christian-marriage/og-image/"
+socialCardUrl: "/posts/our-atheist-christian-marriage/og-image/og-social-cover.jpg"
 date: 2012-02-13
 ---
 I'm an atheist and my wife is a Christian. How can this work you might ask? Well... it's not always easy. I can't speak to her perspective or experiences but I can speak to my own.

@@ -3,7 +3,7 @@ title: Welcome to obsolete29.com v1.0!
 desc: I've finally finished up the design and development of my site; welcome to version 1.0.0!
 published: 2020-12-18
 tags: [indieweb, obsolete29]
-socialCardUrl: "/posts/welcome-to-obsolete29-v1/og-image/"
+socialCardUrl: "/posts/welcome-to-obsolete29-v1/og-image/og-social-cover.jpg"
 ---
 Welp, I did it. I've finally finished up the design and development of my site; welcome to version 1.0.0! I built at least 4 different protoypes in this space over the past 6 weeks or so but I think I like this one a lot. If you're wondering, it's a static site, built with [Eleventy](https://11ty.dev), hosted on [GitHub Pages](https://pages.github.com/), and [coded with my bare hands](https://medium.com/@mattholt/its-2019-and-i-still-make-websites-with-my-bare-hands-73d4eec6b7).
 

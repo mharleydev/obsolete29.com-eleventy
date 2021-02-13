@@ -4,7 +4,7 @@ desc: "SharePoint 2013 Sorry, you can't create a new item with Quick Edit becaus
 published: 2014-04-03
 date: 2014-04-03
 tags: [sharepoint, sharepoint2013]
-socialCardUrl: "/posts/sharepoint-2013-sorry-you-cant-create-a-new-item-with-quick-edit/og-image/"
+socialCardUrl: "/posts/sharepoint-2013-sorry-you-cant-create-a-new-item-with-quick-edit/og-image/og-social-cover.jpg"
 ---
 I have this really annoying issue with SharePoint 2013 and searching the web hasn't come up with an answer yet.
 

@@ -6,14 +6,14 @@ date: 2021-02-06T17:02:25.831Z
 tags:
   - home-automation
   - homekit
-socialCardUrl: /posts/initial-thoughts-on-home-automation/og-image/
+socialCardUrl: /posts/initial-thoughts-on-home-automation/og-image/og-social-cover.jpg
 generateOpenGraphImage: false
 ---
 I've been interested in home automation for a long time and have finally decided to dip my toe in. Here are some quick notes about my thoughts so far.
 
 ## My hardware
 
-I’ve purchased a few Philip Hughes bulbs, some switches and a couple eufy cams to see what it’s all about.
+I’ve purchased a few Philip Hue bulbs, some switches and a couple eufy cams to see what it’s all about.
 
 - [eufy Indoor Cam 2k](https://us.eufylife.com/products/t8400)
 - [Hue White Starter kit E26](https://www.philips-hue.com/en-us/p/hue-white-starter-kit-e26/046677476922)

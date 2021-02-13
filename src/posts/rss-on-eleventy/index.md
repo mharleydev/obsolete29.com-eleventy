@@ -4,7 +4,7 @@ desc: I love RSS. I love how uncool it is. Here's how I configured my 11ty site 
 published: 2020-12-31
 date: 2020-12-31
 tags: [obsolete29, eleventy, webdev]
-socialCardUrl: "/posts/rss-on-eleventy/og-image/"
+socialCardUrl: "/posts/rss-on-eleventy/og-image/og-social-cover.jpg"
 ---
 I love RSS \(Really Simply Syndication\). It's a pretty old specification in Internet years, first created in 1999. Even the newest release of the specification is 11 years old. At it's core, an RSS feed is a plain text XML file that is updated with new posts, pages, or whatever a web master wants to publish.
 

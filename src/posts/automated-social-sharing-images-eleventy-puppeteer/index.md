@@ -7,7 +7,7 @@ tags:
   - obsolete29
   - eleventy
   - webdev
-socialCardUrl: /posts/automated-social-sharing-images-eleventy-puppeteer/og-image/
+socialCardUrl: /posts/automated-social-sharing-images-eleventy-puppeteer/og-image/og-social-cover.jpg
 ---
 First, a disclaimer. I feel kind of cringy about this solution because it feels very hacky to me. I cobbled it together from various sources. I'm learning javascript/node so I do plan to revisit and refactor this solution. I'm posting my cringy, hacky solution in the spirit of learning in public. Here's how I automatically generate social sharing images for my posts!
 

@@ -3,7 +3,7 @@ title: My 2020 in review
 desc: "2020 has been a tough year for most. Here are some reflections on my own."
 published: 2020-12-29
 tags: [year-in-review]
-socialCardUrl: "/posts/2020-in-review/og-image/"
+socialCardUrl: "/posts/2020-in-review/og-image/og-social-cover.jpg"
 ---
 As the year wraps up, I wanted to take a little time to reflect on my year. As I wrote this, I attempted to think of it as a year-end newsletter/journal.
 

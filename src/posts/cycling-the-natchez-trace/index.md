@@ -4,7 +4,7 @@ desc: In the fall of 2014, I took a week long cycle tour trip and rode my bicycl
 published: 2014-11-02
 date: 2014-11-02
 tags: [cycling, natchez-trace, trip-report]
-socialCardUrl: "/posts/cycling-the-natchez-trace/og-image/"
+socialCardUrl: "/posts/cycling-the-natchez-trace/og-image/og-social-cover.jpg"
 generateOpenGraphImage: False
 ---
 In the fall of 2014, I took a week long cycle tour trip and rode my bicycle from Natchez MS to Nashville TN. These posts were Originally posted on my old blog, michaelharley.me and they were migrated here on 01/11/2021.

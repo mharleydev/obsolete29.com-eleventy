@@ -34,7 +34,7 @@
         {% set ogContentType = "article" %}
     {% endif %}
     <meta property="og:type" content="{{ ogContentType }}">
-    <meta name="image" property="og:image" content="{{ socialImageUrl }}{{ metadata.ogSocialImageName }}">
+    <meta name="image" property="og:image" content="{{ socialImageUrl }}">
     <meta property="og:image:width" content="1200">
     <meta property="og:image:height" content="630">
     <meta property="article:author" name="author" content="{{ metadata.author.name}}">
@@ -44,7 +44,7 @@
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@obsolete29">
     <meta name="twitter:description" content="{{ desc or title }}">
-    <meta name="twitter:image" content="{{ socialImageUrl }}{{ metadata.ogSocialImageName }}">
+    <meta name="twitter:image" content="{{ socialImageUrl }}">
     <meta name="twitter:creator" content="@obsolet29">
     <!-- Fathom - beautiful, simple website analytics -->
     <script src="https://beetle.obsolete29.com/script.js" data-site="PAQJTFMK" defer></script>

@@ -3,7 +3,7 @@ title: "Cathy Samford Fired For Being Unwed Mother"
 desc: "My thoughts on Heritage Christian Academy because she was fired for being pregnant"
 published: 2012-04-16
 tags: [atheism]
-socialCardUrl: "/posts/cathy-samford-fired-for-being-unwed-mother/og-image/"
+socialCardUrl: "/posts/cathy-samford-fired-for-being-unwed-mother/og-image/og-social-cover.jpg"
 date: 2012-04-16
 ---
 I'm not sure if you guys have heard but [Cathy Samford was fired from Heritage Christian Academy](http://abcnews.go.com/US/texas-teacher-cathy-samford-fired-unwed-pregnancy-offered/story?id=16115051#.T4wKDbNundA) for being pregnant while single. Click the link to read the details but HCA administration says:

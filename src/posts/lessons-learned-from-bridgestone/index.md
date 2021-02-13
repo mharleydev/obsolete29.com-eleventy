@@ -5,7 +5,7 @@ desc: After nearly 5 years with Bridgestone, I’ll be leaving the company becau
   learned that I can take away with me and onto my next opportunity.
 published: 2020-09-07
 tags: career
-socialCardUrl: "/posts/lessons-learned-from-bridgestone/og-image/"
+socialCardUrl: "/posts/lessons-learned-from-bridgestone/og-image/og-social-cover.jpg"
 isFeatured: "Yes"
 ---
 After nearly 5 years with Bridgestone, I’ll be leaving the company because of restructuring. Since the announcement, I’ve reflected about my lessons learned that I can take away with me and onto my next opportunity.

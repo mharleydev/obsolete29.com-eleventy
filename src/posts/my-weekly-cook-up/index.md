@@ -3,7 +3,7 @@ title: "My weekly cook up"
 desc: "Failing to plan is planning to fail. Here is my weekly cookup routine"
 published: 2012-02-22
 tags: [mealprep, receipes]
-socialCardUrl: "/posts/my-weekly-cook-up/og-image/"
+socialCardUrl: "/posts/my-weekly-cook-up/og-image/og-social-cover.jpg"
 date: 2012-02-22
 ---
 Failing to plan is planning to fail. That phrase pretty much sums up why I do my weekly cook ups. When I don't have my meals planned and cooked up, I make the convenient choices. That usually means that I'm eating McDonalds in the morning and getting some Chinese buffet style food for lunch or five guys etc. The goal is to have my breakfasts and lunches prepared for the work week. I do this preparation on Sundays usually and I store everything in Pyrex containers.

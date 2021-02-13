@@ -5,7 +5,7 @@ desc: Welcome to WordPress. This is your first post. Edit or delete it, then
 published: 2012-01-28
 date: 2012-01-28
 tags: hello
-socialCardUrl: "/posts/hello-world/og-image/"
+socialCardUrl: "/posts/hello-world/og-image/og-social-cover.jpg"
 changeFreq: "Yearly"
 ---
 page.data.url - {{ page.data.url }}
