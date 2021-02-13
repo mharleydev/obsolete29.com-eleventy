@@ -7,6 +7,7 @@ const embedYouTube = require("eleventy-plugin-youtube-embed");
 const markdownIt = require("markdown-it");
 const markdownItAnchor = require("markdown-it-anchor");
 const markdownLib = markdownIt({ html: true }).use(markdownItAnchor);
+const path = require("path");
 
 const localDir = "../obsolete29.com";
 
@@ -114,6 +115,29 @@ module.exports = function (eleventyConfig) {
       formats: ["jpeg"],
       urlPath: "/assets/img/blog/",
       outputDir: localDir + "/assets/img/blog/"
+    });
+
+    let data = metadata.jpeg.pop();
+    return `<img src="${data.url}" width="${data.width}" height="${data.height}" alt="${alt}">`;
+  });
+
+  eleventyConfig.addNunjucksAsyncShortcode("passthruImage", async function(src, alt) {
+    if(alt === undefined) {
+      // You bet we throw an error on missing alt (alt="" works okay)
+      throw new Error(`Missing \`alt\` on myImage from: ${src}`);
+    }
+
+    let metadata = await Image(src, {
+      widths: [null],
+      formats: ["jpeg"],
+      urlPath: "/assets/img/blog/",
+      outputDir: localDir + "/assets/img/blog/",
+      filenameFormat: function (id, src, width, format, options) {
+        const extension = path.extname(src);
+        const name = path.basename(src, extension);
+    
+        return `${name}.${format}`;
+      }
     });
 
     let data = metadata.jpeg.pop();
